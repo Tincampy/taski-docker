@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d186e5fd-575d-4486-aeb9-f1342cdd204a" name="Changes" comment="" />
+    <list default="true" id="d186e5fd-575d-4486-aeb9-f1342cdd204a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +31,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/mnt/sda4/Docker/taski-docker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/mnt/sda4/Docker/kittygram_final&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -36,6 +41,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/backend" />
       <recent name="$PROJECT_DIR$/backend" />
     </key>
   </component>
@@ -50,7 +56,14 @@
       <workItem from="1687876201956" duration="9000" />
       <workItem from="1687877064399" duration="3034000" />
       <workItem from="1687881835910" duration="4252000" />
-      <workItem from="1687888127995" duration="16485000" />
+      <workItem from="1687888127995" duration="16971000" />
+      <workItem from="1687957943303" duration="790000" />
+      <workItem from="1688138246711" duration="2164000" />
+      <workItem from="1688141488658" duration="467000" />
+      <workItem from="1688142136366" duration="579000" />
+      <workItem from="1688142984611" duration="381000" />
+      <workItem from="1688143375427" duration="11000" />
+      <workItem from="1688137808318" duration="11000" />
     </task>
     <servers />
   </component>
